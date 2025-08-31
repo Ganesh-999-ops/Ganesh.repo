@@ -1,0 +1,15 @@
+git init                # Initialize a new Git repository
+git clone <url>         # Clone a repository from a remote URL
+git status              # Show the status of changes
+git add <file>          # Stage changes for commit
+git commit -m "message" # Commit staged changes with a message
+git log                 # Show commit history
+git diff                # Show changes between commits or working directory
+git branch              # List, create, or delete branches
+git checkout <branch>   # Switch to another branch
+git merge <branch>      # Merge a branch into the current branch
+git pull                # Fetch and merge changes from remote
+git push                # Push changes to remote repository
+git remote -v           # Show remote URLs
+git stash               # Temporarily save changes
+git tag                 # Create, list,
