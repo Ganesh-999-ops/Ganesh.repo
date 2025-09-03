@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore Docker files themselves (optional)
+Dockerfile
+docker-compose.yml
+
+# Ignore logs
+*.log
+
+# Ignore node modules (if mixed project)
+node_modules/
